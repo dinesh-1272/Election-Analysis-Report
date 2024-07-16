@@ -1,6 +1,6 @@
 # Indian Election Report - Detailed Overview
 
-![Indian Election Dashboard](image_url_here)
+![Indian Election Dashboard](https://github.com/dinesh-1272/Election-Analysis-Report/blob/main/Report%20for%20Election%202014%20%26%202109.png)
 
 ## Introduction
 
